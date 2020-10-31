@@ -4,7 +4,8 @@
 
 
 ## About me
-
+<!--Graduated as Cross Platform Developer. Currently looking for my spot in a company as Android developer while programating and learning some new stuff.  
+-->
 ## Skills
 ```js
 const Luis = {
