@@ -2,9 +2,12 @@
 # Hey there! I'm Luis Monedero! 👋
 ### Cross Platform Developer
 
+
+## About me
+
+## Skills
 ```js
 const Luis = {
-  pronouns: "he" | "him",
   languages: [Java, Kotlin, Javascript, HTML5, CSS3, SQL, Firebase,MongoDB],
   code_editors: [Android Studio, Visual Studio Code, NetBeans, Eclipse, Sublime Text]
 }
